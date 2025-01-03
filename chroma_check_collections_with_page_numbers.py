@@ -1,3 +1,7 @@
+#  Here is a client looking for a chroma server:  chroma run --path .
+#
+#
+#
 from chromadb import HttpClient
 
 # Initialize the Chroma HTTP client
