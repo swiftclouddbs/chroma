@@ -1,3 +1,7 @@
+#  need to fix page_number function and tune chunk overlap a wee bit...
+#  Create new vstores on little Mac
+#
+
 from langchain.vectorstores import Chroma
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
