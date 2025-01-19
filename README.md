@@ -1,6 +1,4 @@
-AI Portal:  Next video - portal mgmt, projects, plans for chroma collection layout
-  Chart course for next set of videos - using task list functionality
-  we want to load multiple 10Ks and query them.  show how they are in the "Research" Collection.  View collections for the business units.
+AI Portal:  #5 is Use Cases.  See the webpage.
   Citations.  
   How RAG addresses the LLM issues of hallucinations and groundedness.  Citations.
   D&D a dataset and perform linear regression
