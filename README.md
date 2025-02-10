@@ -1,11 +1,4 @@
-AI Portal:  #5 is Use Cases.  See the webpage.
-  Citations.  
-  How RAG addresses the LLM issues of hallucinations and groundedness.  Citations.
-  D&D a dataset and perform linear regression
-  Loading multiple datasets and creating graphs - drawing conclusions from the data
-  SVM graphs
-  
-Build an HTML editor:  https://netbeans.apache.org/tutorial/main/tutorials/nbm-htmleditor/
+
 
 Upgrade to latest chroma:
 remove ALL installed chroma packages:
